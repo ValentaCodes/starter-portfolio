@@ -16,7 +16,6 @@
 
 ## Screenshots
 
-![Alt text](./Screen%20Shot%202022-11-01%20at%2010.10.42%20PM.png)
-![Alt text](./Screen%20Shot%202022-11-01%20at%2010.10.54%20PM.png)
-![Alt text](./Screen%20Shot%202022-11-01%20at%2010.10.59%20PM.png)
-git
+![Alt text](./Assets/images/Screen%20Shot%202022-11-01%20at%2010.10.42%20PM.png)
+![Alt text](./Assets/images/Screen%20Shot%202022-11-01%20at%2010.10.54%20PM.png)
+![Alt text](./Assets/images/Screen%20Shot%202022-11-01%20at%2010.10.59%20PM.png)
